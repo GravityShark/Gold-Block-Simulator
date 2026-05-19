@@ -1,0 +1,1 @@
+setblock ^1 ^1 ^1 piston_head[facing=down, short=false, type=sticky]

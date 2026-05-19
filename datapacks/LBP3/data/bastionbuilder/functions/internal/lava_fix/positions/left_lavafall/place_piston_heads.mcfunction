@@ -1,0 +1,3 @@
+# The piston heads are only placed if there are no terrain blocks where the air otherwise is to avoid the terrain blocks being overrided.
+execute positioned ^ ^ ^1 if block ^ ^ ^ air run function bastionbuilder:internal/lava_fix/positions/left_lavafall/place_piston_head
+execute positioned ^2 ^ ^1 if block ^ ^ ^ air run function bastionbuilder:internal/lava_fix/positions/left_lavafall/place_piston_head

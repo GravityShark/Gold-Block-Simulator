@@ -1,4 +1,4 @@
-# tnt
+# gold block simulator
 all the info should be in the map already
 
 if trajectory mode is getting too laggy for ya, try smthn from here https://minecraftcommands.github.io/wiki/questions/blockdelay#success-count to delay it so its not as laggy. i highkey didnt add it into the map and im too lazy to update it now
